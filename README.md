@@ -1,2 +1,1 @@
-# RedAgent-
-AI 自动化渗透测试
+# RedAgent-AI 自动化渗透测试平台
