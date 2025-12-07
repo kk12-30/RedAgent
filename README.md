@@ -7,7 +7,6 @@
 [![Wails](https://img.shields.io/badge/Wails-v2-DF0000?style=flat-square)](https://wails.io)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[English](#) | 简体中文
 
 </div>
 
