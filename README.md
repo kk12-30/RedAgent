@@ -32,16 +32,6 @@
 
 ## 🔧 内置能力(后续新增外部MCP工具)
 
-| 能力 | 说明 |
-|------|------|
-| 🕷️ WebCrawler | 网页爬虫，抓取链接和表单 |
-| 📡 HTTPProbe | HTTP 请求探测器，支持自定义请求 |
-| 🔍 PortScanner | TCP 端口扫描器 (Top 100 端口) |
-| 🌐 HeadlessBrowser | 无头浏览器，处理 SPA 和 DOM XSS |
-| 🛡️ VulnDetector | 漏洞检测器，识别常见安全问题 |
-| 🎯 Fingerprinter | 指纹识别，识别 Web 技术栈 |
-| 💣 PayloadGenerator | Payload 生成器，生成测试载荷 |
-
 
 ## 📖 使用方法
 
