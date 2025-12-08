@@ -19,6 +19,8 @@
 - **多 LLM 支持**: 支持 OpenAI GPT-4、DeepSeek、硅基流动、Claude 等
 - **实时日志**: 实时展示 AI 思考过程和 HTTP 请求历史
 
+![image](https://github.com/kk12-30/Dscan/blob/main/Agent1.png)
+![image](https://github.com/kk12-30/Dscan/blob/main/Agent2.png)
 
 
 ## 🛠️ 技术栈
@@ -28,7 +30,7 @@
 - **网络**: 纯 Go 库 (net/http, gocolly, chromedp)
 - **AI**: OpenAI API 标准接口
 
-## 🔧 内置能力
+## 🔧 内置能力(后续新增外部MCP工具)
 
 | 能力 | 说明 |
 |------|------|
