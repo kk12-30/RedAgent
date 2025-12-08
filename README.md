@@ -19,8 +19,8 @@
 - **多 LLM 支持**: 支持 OpenAI GPT-4、DeepSeek、硅基流动、Claude 等
 - **实时日志**: 实时展示 AI 思考过程和 HTTP 请求历史
 
-![image](https://github.com/kk12-30/Dscan/blob/main/Agent1.png)
-![image](https://github.com/kk12-30/Dscan/blob/main/Agent2.png)
+![image](https://github.com/kk12-30/RedAgent/blob/main/Agent1.png)
+![image](https://github.com/kk12-30/RedAgent/blob/main/Agent2.png)
 
 
 ## 🛠️ 技术栈
