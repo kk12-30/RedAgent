@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 [![Wails](https://img.shields.io/badge/Wails-v2-DF0000?style=flat-square)](https://wails.io)
 ![image](https://github.com/kk12-30/RedAgent/blob/main/Agent0.png)
-
+推荐LLM接口：https://cloud.siliconflow.cn/i/JsMeWiWt
 
 </div>
 
