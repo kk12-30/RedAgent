@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ RedAgent(RAg) -AI 自动化快速评估工具
+# 🛡️ RedAgent -AI 自动化快速评估工具
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
