@@ -30,7 +30,7 @@
 - **网络**: 纯 Go 库 (net/http, gocolly, chromedp)
 - **AI**: OpenAI API 标准接口
 
-## 🔧 内置能力(后续新增外部MCP工具)
+## 🔧 工具能力(外置+内置双引擎)
 
 
 ## 📖 使用方法
