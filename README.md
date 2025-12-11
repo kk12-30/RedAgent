@@ -12,12 +12,14 @@
 ---
 
 ## ✨ 功能特性
-推荐LLM接口：https://cloud.siliconflow.cn/i/JsMeWiWt
+推荐使用硅基流动的LLM接口：https://cloud.siliconflow.cn/i/JsMeWiWt
 - **AI 智能体引擎**: 基于 ReAct (Reasoning + Acting) 模式的自动化安全评估
 - **纯 Go 实现**: 无需依赖外部二进制文件
 - **现代化 UI**: 黑客风格的终端界面，实时显示 AI 思考过程
 - **多 LLM 支持**: 支持 OpenAI GPT-4、DeepSeek、硅基流动、Claude 等
 - **实时日志**: 实时展示 AI 思考过程和 HTTP 请求历史
+- **上下文处理与压缩**
+- **支持本地Ollma接口**
 
 ![image](https://github.com/kk12-30/RedAgent/blob/main/Agent1.png)
 ![image](https://github.com/kk12-30/RedAgent/blob/main/Agent2.png)
