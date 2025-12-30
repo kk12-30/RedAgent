@@ -1,4 +1,5 @@
 <div align="center">
+# 获取工具源码：https://m-wiki.freebuf.com/clubsPoster?id=410&invite_code=2ebc0444
 
 # 🛡️ RedAgent -AI 自动化快速评估工具
 
@@ -13,7 +14,6 @@
 
 ## ✨ 功能特性
 推荐使用硅基流动的LLM接口：https://cloud.siliconflow.cn/i/JsMeWiWt
-获取工具源码：https://m-wiki.freebuf.com/clubsPoster?id=410&invite_code=2ebc0444
 - **AI 智能体引擎**: 基于 ReAct (Reasoning + Acting) 模式的自动化安全评估
 - **纯 Go 实现**: 无需依赖外部二进制文件
 - **现代化 UI**: 黑客风格的终端界面，实时显示 AI 思考过程
